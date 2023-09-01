@@ -1,0 +1,22 @@
+body{
+    width: 900px;
+    margin: auto;
+    background-color: aquamarine;
+    border:dotted;
+}
+
+h1{
+    background-color: blueviolet;
+        color:aqua;
+        text-align: center;
+}
+h2{
+    background-color: greenyellow;
+        color:aqua;
+        text-align: center;
+    
+}
+nav li{
+    display:inline-block;
+    padding: 5px;
+}
